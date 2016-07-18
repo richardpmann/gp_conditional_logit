@@ -1,0 +1,12 @@
+This repository contains a Matlab implementation of the Gaussian process conditional logit model described in the paper: `A Gaussian Process Conditional Logit Choice Model Reveals Homophily in Household Neighbourhood Choice in Stockholm' by R.P. Mann, V. Spaiser, L. Hedman and D.J.T. Sumpter.
+
+Original data analysed in the paper is not available for public access. Instead, simulated data is presented, generated using a simple neighbourhood choice utility function to verify that the code is functional.
+
+The repository also contains a copy of the minFunc toolkit: 
+Author: Mark Schmidt (2005)
+Web: http://www.di.ens.fr/~mschmidt/Software/minFunc.html
+
+Use of code is demonstrated in the script: gp_conditional_logit_model.m
+
+Comments or questions please contact Richard Mann: r.p.mann@leeds.ac.uk
+
